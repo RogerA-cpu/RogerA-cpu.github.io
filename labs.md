@@ -2,8 +2,8 @@
 layout: default
 title: Labs
 ---
-[🏠 Back to Home](https://RogerA-cpu.github.io/)
-# Coursework & Technical Labs
+# 🛠️ Technical Labs & Projects
+[🏠 Back to Home](index.md)
 
 # Lab #1: Building a Portable Network Monitor (Raspberry Pi 4)
 
@@ -95,4 +95,4 @@ This lab simulates the daily responsibilities of an IT Support Technician, inclu
 1. **Onboarding/Offboarding:** I am proficient in creating new user accounts and disabling access when employees leave.
 2. **Permission Troubleshooting:** I can diagnose "Access Denied" errors by reviewing Group Policy and Security Group memberships.
 3. **Identity Management:** I understand how AD centralizes security, making it easier to manage hundreds of users at once.
-[🏠 Back to Home](https://RogerA-cpu.github.io/)
+
