@@ -6,7 +6,7 @@
 
   <div style="text-align: center; padding: 20px;">
     <h1 style="font-size: 3rem; margin: 0; text-shadow: 2px 2px 8px rgba(0,0,0,0.8);">Rogelio Alarcon</h1>
-    <p style="font-size: 1.5rem; text-shadow: 2px 2px 8px rgba(0,0,0,0.8);">Cybersecurity Specialist | IT Support Professional</p>
+    <p style="font-size: 1.5rem; text-shadow: 2px 2px 8px rgba(0,0,0,0.8);"</p>
   </div>
 </header>
 
