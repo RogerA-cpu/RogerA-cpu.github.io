@@ -1,11 +1,14 @@
----
-layout: default
-title: Home
----
+<header style="position: relative; height: 400px; overflow: hidden; display: flex; align-items: center; justify-content: center; color: white;">
+  <video autoplay muted loop playsinline style="position: absolute; width: 100%; height: 100%; object-fit: cover; z-index: -1; filter: brightness(50%);">
+    <source src="header-bg.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
 
-# Rogelio A. | IT & Cybersecurity Professional 👋
-
-**A.S. in Cybersecurity Graduate** with a focus on enterprise support and secure system administration. I bridge the gap between technical troubleshooting and proactive security defense.
+  <div style="text-align: center; padding: 20px;">
+    <h1 style="font-size: 3rem; margin: 0; text-shadow: 2px 2px 8px rgba(0,0,0,0.8);">Rogelio Alarcon</h1>
+    <p style="font-size: 1.5rem; text-shadow: 2px 2px 8px rgba(0,0,0,0.8);">Cybersecurity Specialist | IT Support Professional</p>
+  </div>
+</header>
 
 ---
 
