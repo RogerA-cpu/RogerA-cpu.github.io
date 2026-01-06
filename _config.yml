@@ -1,7 +1,7 @@
 title: Rogelio Alarcon | IT & Cybersecurity Portfolio
-description: A.S. in Cybersecurity | Enterprise Support & System Administration
 theme: jekyll-theme-cayman
-#navigation bar links
+
 header_pages:
   - index.md
   - labs.md
+  - resume.md
