@@ -1,6 +1,6 @@
 title: Roger A. | Cybersecurity Portfolio
 description: A.S. in Cybersecurity | Aspiring Security Analyst
-theme: jekyll-theme-hacker
+theme: jekyll-theme-cayman
 #navigation bar links
 header_pages:
   - index.md
