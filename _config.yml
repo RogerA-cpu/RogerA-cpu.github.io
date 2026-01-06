@@ -1,9 +1,7 @@
 title: Roger A. | Cybersecurity Portfolio
-description: A.S. Cybersecurity Coursework & Labs
+description: A.S. in Cybersecurity | Aspiring Security Analyst
 theme: jekyll-theme-hacker
-show_downloads: false
-# Add this section
+#navigation bar links
 header_pages:
   - index.md
   - labs.md
-  - resume.md
