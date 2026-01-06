@@ -1,15 +1,8 @@
-<header style="position: relative; height: 400px; overflow: hidden; display: flex; align-items: center; justify-content: center; color: white;">
-  <video autoplay muted loop playsinline style="position: absolute; width: 100%; height: 100%; object-fit: cover; z-index: -1; filter: brightness(50%);">
+<header style="position: relative; height: 350px; overflow: hidden; display: flex; align-items: center; justify-content: center;">
+  <video autoplay muted loop playsinline style="position: absolute; width: 100%; height: 100%; object-fit: cover; z-index: -1; filter: brightness(60%);">
     <source src="header-bg.mp4" type="video/mp4">
-    Your browser does not support the video tag.
   </video>
-
-  <div style="text-align: center; padding: 20px;">
-    <h1 style="font-size: 3rem; margin: 0; text-shadow: 2px 2px 8px rgba(0,0,0,0.8);">Rogelio Alarcon</h1>
-    <p style="font-size: 1.5rem; text-shadow: 2px 2px 8px rgba(0,0,0,0.8);"</p>
-  </div>
-</header>
-
+  </header>
 ---
 
 ## 🎯 Career Objective
