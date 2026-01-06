@@ -45,6 +45,8 @@ Check out my [Technical Labs page]({{ site.baseurl }}/labs) to see my hands-on w
 
 ---
 
+---
+
 ### 📬 Let's Connect
-* **LinkedIn:** https://www.linkedin.com/in/rogelio-alarcon-7561703a5/#:~:text=www.linkedin.com/in/rogelio%2Dalarcon%2D7561703a5
-* **Email:** 57.fleets.milieus@icloud.com
+* 💼 **LinkedIn:** [Rogelio Alarcon](https://www.linkedin.com/in/rogelio-alarcon-7561703a5/)
+* 📧 **Email:** [57.fleets.milieus@icloud.com](mailto:57.fleets.milieus@icloud.com)
