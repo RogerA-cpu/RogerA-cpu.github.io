@@ -46,7 +46,8 @@ A key part of this lab was analyzing the motivations behind potential attacks to
 ## 🖥️ Lab: Implementing Access Controls with Windows Active Directory
 **Objective:** Configuring a Windows Server domain to manage user authentication and resource authorization.
 
-![Active Directory Lab Screenshot](./ad-lab-screenshot.png)
+![Active Directory Lab Screenshot] (<img width="612" height="792" alt="image" src="https://github.com/user-attachments/assets/77638c83-d2cc-49ea-b0d2-84685f19f838" />)
+
 
 ### **Lab Summary**
 In this lab, I acted as a System Administrator for a simulated corporate environment. The goal was to implement a secure, scalable access control system using **Active Directory Users and Computers (ADUC)**.
