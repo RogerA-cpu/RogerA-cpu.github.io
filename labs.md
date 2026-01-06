@@ -95,4 +95,3 @@ This lab simulates the daily responsibilities of an IT Support Technician, inclu
 1. **Onboarding/Offboarding:** I am proficient in creating new user accounts and disabling access when employees leave.
 2. **Permission Troubleshooting:** I can diagnose "Access Denied" errors by reviewing Group Policy and Security Group memberships.
 3. **Identity Management:** I understand how AD centralizes security, making it easier to manage hundreds of users at once.
-
